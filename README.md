@@ -76,6 +76,7 @@ screen and (orientation: landscape) {
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2><p>この狭い通路を抜けると、見晴らしの丘　↓</p></h2>
 <a href="20190429_001.JPG" data-lightbox="abc"><img src="20190429_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190429_002.JPG" data-lightbox="abc"><img src="20190429_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190429_003.JPG" data-lightbox="abc"><img src="20190429_003.JPG" alt="サンプル画像" width="900" /></a>
