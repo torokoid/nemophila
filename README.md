@@ -139,7 +139,7 @@ screen and (orientation: landscape) {
 <a href="20190429_061.JPG" data-lightbox="abc"><img src="20190429_061.JPG" alt="サンプル画像" width="900" /></a>
 <br><br>
 Map<br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14075.637550389267!2d140.11189349712555!3d36.6190145642217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6021e743b7882e43%3A0x827218589b5d577d!2z5biC6LKd55S66Iqd44GW44GP44KJ5YWs5ZyS!5e0!3m2!1sja!2sjp!4v1556448594424!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d51379.89426771058!2d140.52602209987032!3d36.403306186386125!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60218b1d845e4441%3A0x767e1dea03e6f0e1!2z5Zu95Za244Gy44Gf44Gh5rW35rWc5YWs5ZyS!5e0!3m2!1sja!2sjp!4v1556622510373!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
 
